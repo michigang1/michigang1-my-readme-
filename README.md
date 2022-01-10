@@ -1,5 +1,5 @@
 ### Hi there 👋
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=michigang1&show_icons=true&include_all_commits=true&theme=shades-of-purple_border=false" alt="Michael's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michigang1&layout=compact&theme=shades-of-purple_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=michigang1&show_icons=true&include_all_commits=true&theme=shades-of-purple_border=false" alt="Michael's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michigang1&layout=compact&theme=shades-of-purple_border=false" /></a> |
 | ------------- | ------------- |
 <!--
 **michigang1/michigang1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
